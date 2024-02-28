@@ -1,22 +1,7 @@
-# AAI_Surya-Saputra-The-Art-of-Prompt-Engineering
-course The Art of Prompt Engineering, Advance Artificial Intellegence-IBM Academy Class AAI_Surya Saputra
+Hello, my name is Surya Saputra, I am a student from Batam State Polytechnic, this repository is a place to collect assignments that I am working on at IBM Akademi, Infinite Learning
 
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
+**AAI_Surya-Saputra-The-Art-of-Prompt-Engineering**
+27-08-2024
+
+**Project Course Natural Language Processing with Hugging Face Transformers**
+28-08-2024
